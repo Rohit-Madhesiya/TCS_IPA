@@ -32,7 +32,7 @@ All searches should be case insensitive.
 The above mentioned static methods should be called from the main method.
 
 For findAvgEnginePriceByType method: The main method should print the average enginePrice of Engines as it is, if the returned 
-value is greater than 0, or it should print “There are no engine with given type”.
+value is greater than 0, or it should print “There are no engine with the given type”.
 
 For searchEngineByName method: The main method should print the engineld from the returned Engine object array if the returned 
 value is not null. If the returned value is null, then it should print “There are no engine with the given name”. 

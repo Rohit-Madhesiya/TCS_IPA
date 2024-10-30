@@ -42,7 +42,6 @@ Consider the below input and output:
 
 
 input1:
-
 111
 Arijit
 Math
